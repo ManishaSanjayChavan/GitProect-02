@@ -2,7 +2,12 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+<<<<<<< HEAD
 			<item value="C:\Users\dell\Desktop\SONAM"/>
+=======
+			<item value="C:\Users\dell\Desktop\SONAM\GitProect-02"/>
+			<item value="C:\Users\dell\Desktop\SANJAY\GitProect-02"/>
+>>>>>>> b7c93409fd8c4bc7338dca5e532b0afded909b8a
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
